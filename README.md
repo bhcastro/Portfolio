@@ -2,7 +2,10 @@ Bem vindo ao meu repositório de projetos criados!
 Este local está em contante evolução, então qualquer sugestão construtiva será bem vinda.
 Obrigado pela visita.
 
-Site sobre a história do Android feito através do curso em vídeo!
-Cordel moderno feito através do curso em vídeo!
-ToDo list criado com Javascript para desenvolvimento pessoal!
-Calculadora de eritroblastos pensada para auxiliar na rotina laboratorial!
+Site sobre a história do <a href="https://bhcastro.github.io/Portfolio/android/android.html" target="_blank">Android</a> feito através do curso em vídeo!
+
+<a href="https://bhcastro.github.io/Portfolio/cordel/index.html" target="_blank">Cordel moderno</a> feito através do curso em vídeo!
+
+<a href="https://bhcastro.github.io/Projetos/Lab/gestao/checklist/index/index.html" target="_blank">ToDo list</a> criado com Javascript para desenvolvimento pessoal!
+
+<a href="https://bhcastro.github.io/Projetos/Lab/calculadoras/index/calculadoras.html" target="_blank">Calculadora</a> de eritroblastos pensada para auxiliar na rotina laboratorial!
