@@ -1,5 +1,5 @@
 Bem vindo ao meu repositório de projetos criados!
-Este local está em contante evolução, então qualquer sugestão construtiva será bem vinda.
+Este local está em constante evolução, então qualquer sugestão construtiva será bem vinda.
 Obrigado pela visita.
 
 Site sobre a história do <a href="https://bhcastro.github.io/Portfolio/android/android.html" target="_blank">Android</a> feito através do curso em vídeo!
