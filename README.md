@@ -8,6 +8,6 @@ Site sobre a história do <a href="https://bhcastro.github.io/Portfolio/android/
 
 <a href="https://bhcastro.github.io/Projetos/Lab/gestao/todo/index/index.html" target="_blank">ToDo list</a> criado com Javascript para desenvolvimento pessoal!
 
-<a href="https://bhcastro.github.io/Projetos/Lab/calculadoras/index/calculadoras.html" target="_blank">Calculadora</a> de eritroblastos pensada para auxiliar na rotina laboratorial!
+<a href="https://bhcastro.github.io/Projetos/Lab/calculadoras/index/calculadoras.html" target="_blank">Calculadora de eritroblastos</a> pensada para auxiliar na rotina laboratorial!
 
 <a href="https://bhcastro.github.io/Portfolio/login/index/login.html" target="_blank">Página de Login</a> (ainda em construção)
